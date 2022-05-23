@@ -1,10 +1,10 @@
 ---
-title: This is my third & latest post
+title: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 description: Bring to the table win-win survival strategies to ensure proactive
   domination. At the end of the day, going forward, a new normal that has
   evolved from generation X is on the runway heading towards a streamlined cloud
   solution.
-image: https://images.unsplash.com/photo-1501631259223-89d4e246ed23?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1960&q=80
+image: https://images.unsplash.com/photo-1613244600331-ac72a1ee5256?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1960&q=80
 date: 2020-09-23T15:13:13.021Z
 category: Forest Trails
 ---
