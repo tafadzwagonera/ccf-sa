@@ -352,7 +352,7 @@ ul {
  */
 
 html {
-  font-family: Overpass, sans-serif; /* 1 */
+  font-family: Montserrat, sans-serif; /* 1 */
   line-height: 1.5; /* 2 */
 }
 
@@ -2077,13 +2077,13 @@ video {
 	vertical-align: middle;
 }
 .font-sans {
-	font-family: Overpass, sans-serif;
+	font-family: Montserrat, sans-serif;
 }
 .font-display {
-	font-family: Playfair Display, serif;
+	font-family: Lora, sans-serif;
 }
 .font-heading {
-	font-family: Fira Sans Condensed, serif;
+	font-family: PT Sans, sans-serif;
 }
 .text-2xl {
 	font-size: 1.5rem;
