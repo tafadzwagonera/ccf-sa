@@ -6,9 +6,9 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'display' : ['Playfair Display', 'serif'],
-        'heading' : ['Fira Sans Condensed', 'serif'],
-        'sans' : ['Overpass', 'sans-serif']
+        'display' : ['Lora', 'sans-serif'],
+        'heading' : ['PT Sans', 'sans-serif'],
+        'sans' : ['Montserrat', 'sans-serif']
       }
     },
   },
