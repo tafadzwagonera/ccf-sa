@@ -101,7 +101,7 @@ _site
 # vuepress build output
 .vuepress/dist
 
-# vuepress v2.x temp and cache directory
+# temp and cache directory
 .temp
 .cache
 _tmp
