@@ -2,11 +2,11 @@
 section_one_title: More info
 section_one_links:
   - text: About
-    url: "#"
-  - text: Info
-    url: "#"
-  - text: FAQ
-    url: "#"
+    url: "/pages/about-us/"
+  - text: Blog
+    url: "/blog/"
+  - text: Contact
+    url: "/contact/"
 section_two_title: Helpful Links
 section_two_links:
   - text: About
